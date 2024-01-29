@@ -1,0 +1,1253 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\main_prj.bundle.scp.css",
+      "PackagePath": "staticwebassets\\main_prj.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\12\\gvn_log_g304_3df28cd60a48412b8fb1d2ff762dc6a9_1f12340f2e6b4b8892163de0a06676f2_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\12\\gvn_log_g304_3df28cd60a48412b8fb1d2ff762dc6a9_1f12340f2e6b4b8892163de0a06676f2_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\12\\gvn_log_g304__2__780b3e4dfe9c478097d4652f7fec7417_6398c220c21e454dba59d68c89650bce_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\12\\gvn_log_g304__2__780b3e4dfe9c478097d4652f7fec7417_6398c220c21e454dba59d68c89650bce_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\12\\gvn_log_g304__2__9dc0f252e9764c05a881d60d8b3b28c3_fca2b25f213d4df59ac12392e9a7e226_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\12\\gvn_log_g304__2__9dc0f252e9764c05a881d60d8b3b28c3_fca2b25f213d4df59ac12392e9a7e226_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\12\\gvn_log_g304__3__a4bb3a38865b46d79f0cf6caea1177e9_345b5ba8e2b84bd69490317cdc1a8a3f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\12\\gvn_log_g304__3__a4bb3a38865b46d79f0cf6caea1177e9_345b5ba8e2b84bd69490317cdc1a8a3f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\12\\gvn_log_g304__5__cf3f2d7546894056b3be267987852907_f683d2efca4141c6b4a4f63171a42ca8_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\12\\gvn_log_g304__5__cf3f2d7546894056b3be267987852907_f683d2efca4141c6b4a4f63171a42ca8_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\12\\gvn_log_g304__6__f6438a49c3e6411bbea59f059f306dfe_184aa7562fd7483987b7946296835311_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\12\\gvn_log_g304__6__f6438a49c3e6411bbea59f059f306dfe_184aa7562fd7483987b7946296835311_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-01_bfb819666f4648ebbee27f43697f4634_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-01_bfb819666f4648ebbee27f43697f4634_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-02_c014c668c2f34557864f5f6f1cf8a990_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-02_c014c668c2f34557864f5f6f1cf8a990_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-03_49a8f96c5dd04516940c7b0cb3aafd5e_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-03_49a8f96c5dd04516940c7b0cb3aafd5e_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-04_d24fc5fed29a4ebda7df6cae01205b5e_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-04_d24fc5fed29a4ebda7df6cae01205b5e_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-05_eb6c10524ad9443486fdef36efb3ae5d_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-05_eb6c10524ad9443486fdef36efb3ae5d_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-06_adfe3ed081774d5f860ae3e64109629f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-06_adfe3ed081774d5f860ae3e64109629f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-07_a239aff23b934694917a6dcadf84a0f9_grande.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-07_a239aff23b934694917a6dcadf84a0f9_grande.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-08_af136444fc934e09b57a6acc3fe0a52a_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-08_af136444fc934e09b57a6acc3fe0a52a_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-09_58e53f440dd2459bb46693b88a979f5c_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\14\\rog-harpe-ace-aim-lab-edition-09_58e53f440dd2459bb46693b88a979f5c_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\16\\m185-gallery-1-grey-emea_240ef6ba74dc463d9efb562f50720e99_655b4e62980f477f946e7493cff4eedc_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\16\\m185-gallery-1-grey-emea_240ef6ba74dc463d9efb562f50720e99_655b4e62980f477f946e7493cff4eedc_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\16\\m185-gallery-2-grey-emea_deebc01b33184b60b1c15c9b98875738_b642461054ec4d58b2321e52a9e28cb9_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\16\\m185-gallery-2-grey-emea_deebc01b33184b60b1c15c9b98875738_b642461054ec4d58b2321e52a9e28cb9_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\16\\m185-gallery-3-grey-emea_b96a33f7bc4b41d395c10fb5078e6e74_4ca0992121bf4ff8a7598f0c636d3a28_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\16\\m185-gallery-3-grey-emea_b96a33f7bc4b41d395c10fb5078e6e74_4ca0992121bf4ff8a7598f0c636d3a28_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\16\\m185-gallery-4-grey-emea_47adbe77e8354217a975bbaf43de1ad6_bcb6ce72b90e4885aa055b051aac8e33_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\16\\m185-gallery-4-grey-emea_47adbe77e8354217a975bbaf43de1ad6_bcb6ce72b90e4885aa055b051aac8e33_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\17\\20b3dca2e364ec8ab16af8236cc3117_4b11f3120af34c63a5f37cbac08a4bf4_large_49f6deb3c27141d5ab74480cc508ec60_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\17\\20b3dca2e364ec8ab16af8236cc3117_4b11f3120af34c63a5f37cbac08a4bf4_large_49f6deb3c27141d5ab74480cc508ec60_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\18\\1_68d3bde76bd54c53a4345f3e5243520a_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\18\\1_68d3bde76bd54c53a4345f3e5243520a_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\18\\armorair-03-_94275bdb70724277bf115e681c5c3761_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\18\\armorair-03-_94275bdb70724277bf115e681c5c3761_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\18\\armorair-04_020d44fed7f94c54ae8dfcfb6ae2b486_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\18\\armorair-04_020d44fed7f94c54ae8dfcfb6ae2b486_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\18\\armorair-06_bfa2e68b8da5424088b13ac93b350fe3_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\18\\armorair-06_bfa2e68b8da5424088b13ac93b350fe3_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\18\\armorair-07_99ff4b38c6464e51b06ba95b77e7e9ae_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\18\\armorair-07_99ff4b38c6464e51b06ba95b77e7e9ae_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\19\\ered_cad2dec0ac844666925b70d593b5ac10_7dfa173113f64a3c97a333bec0789ea9_e803a836346541569091ece6125b37f0_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\19\\ered_cad2dec0ac844666925b70d593b5ac10_7dfa173113f64a3c97a333bec0789ea9_e803a836346541569091ece6125b37f0_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\19\\te-1_ee6a798d3b234cf18c8ae2d54ac428ba_503375b096eb4c96add282c72a0d492f_d3dede2f2aff479c804408d7c284016d_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\19\\te-1_ee6a798d3b234cf18c8ae2d54ac428ba_503375b096eb4c96add282c72a0d492f_d3dede2f2aff479c804408d7c284016d_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\19\\te-2_8704d3b631d14afdb193e6332266808b_ccd6479985794a14b542f4e7e0b96b26_0371e11db1df4fe895f3a3c33034b029_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\19\\te-2_8704d3b631d14afdb193e6332266808b_ccd6479985794a14b542f4e7e0b96b26_0371e11db1df4fe895f3a3c33034b029_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\19\\te-3_178eed3678ab4dbeb20b69e78914fb6e_016a33f993934d3985f5eafe775e97cd_40f4d13d483e47d692e746fb8cc4b5ab_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\19\\te-3_178eed3678ab4dbeb20b69e78914fb6e_016a33f993934d3985f5eafe775e97cd_40f4d13d483e47d692e746fb8cc4b5ab_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\19\\te-4_f1530d03dcd744fcbeea3a8ced885022_c9178f1977cf4662badfccea2f01b407_cbded6ebabd54e3ba332e7f2ba951912_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\19\\te-4_f1530d03dcd744fcbeea3a8ced885022_c9178f1977cf4662badfccea2f01b407_cbded6ebabd54e3ba332e7f2ba951912_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\19\\te-5_c297d0bcc4ad4c928a2720d077ecc3a7_30f62d4a0fe84f69b11ca456d81ac8e6_0dd5a63e8ab84aaf99cbce062b742424_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\19\\te-5_c297d0bcc4ad4c928a2720d077ecc3a7_30f62d4a0fe84f69b11ca456d81ac8e6_0dd5a63e8ab84aaf99cbce062b742424_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-1_ecdcc5cbd7c14e7dab86c41c7f68969b_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-1_ecdcc5cbd7c14e7dab86c41c7f68969b_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-2_b81575a9d2a04336a21a40570c2bd4b1_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-2_b81575a9d2a04336a21a40570c2bd4b1_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-3_b1e270a493db41ecadf1de2ac38d3dbd_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-3_b1e270a493db41ecadf1de2ac38d3dbd_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-4_45abb9c985d44f50815b86c49692cd3f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-4_45abb9c985d44f50815b86c49692cd3f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-5_5006196929b441638cb608c13d733aa3_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-5_5006196929b441638cb608c13d733aa3_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-6_316c04b4f76c496db90875337ecacc8e_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\1\\an-hinh-asus-tuf-gaming-vg249q3a-24-fast-ips-180hz-gsync-chuyen-game-6_316c04b4f76c496db90875337ecacc8e_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\1\\download.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\1\\download.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\20\\2635e140a70ec13efe2d04a5bc94a486_2cacfafff1bc4702868430d3abf3ecd8_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\20\\2635e140a70ec13efe2d04a5bc94a486_2cacfafff1bc4702868430d3abf3ecd8_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\20\\3243cd3d1a4666898e81dd9862247526_faf0940eb9b544a186de92fc3a53adc3_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\20\\3243cd3d1a4666898e81dd9862247526_faf0940eb9b544a186de92fc3a53adc3_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\20\\38563bd2d5c0a8a07d4928bfda5fcc64.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\20\\38563bd2d5c0a8a07d4928bfda5fcc64.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\20\\4c1c7530f254a90451a13aa63d3e6842_966ab70d240f442ea78c490f859d8fad_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\20\\4c1c7530f254a90451a13aa63d3e6842_966ab70d240f442ea78c490f859d8fad_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\20\\8c2b28819b948e457c64aa4d02a3e5f4_8a43cb03096440a0b6d3a9645b16e23a_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\20\\8c2b28819b948e457c64aa4d02a3e5f4_8a43cb03096440a0b6d3a9645b16e23a_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\20\\8eea1112ec13a25427281f5a3f238de4_cd8b6f4ecb984355bc88c4c15dce3e02_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\20\\8eea1112ec13a25427281f5a3f238de4_cd8b6f4ecb984355bc88c4c15dce3e02_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\21\\1b338f311c347b0b54d18a7a48aaaa7_9341b03a3f3e44a49dfbd4056af64cdc_large_6fc72f3e0c0942ccab0e7c3ab0489b8f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\21\\1b338f311c347b0b54d18a7a48aaaa7_9341b03a3f3e44a49dfbd4056af64cdc_large_6fc72f3e0c0942ccab0e7c3ab0489b8f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\21\\591420e22f14f0699f4fe47b94ba985_37a1d9cd8abd4625af611f54c09b3d8f_large_295495cb1d1b483b943fe842e8cd39c3_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\21\\591420e22f14f0699f4fe47b94ba985_37a1d9cd8abd4625af611f54c09b3d8f_large_295495cb1d1b483b943fe842e8cd39c3_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\21\\6255738024c4fce93309c32b48a8e84_814e2c36a0f44cc0baffa8f6e92ca06d_large_01d86ce621a54787a3811d34b753bc24_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\21\\6255738024c4fce93309c32b48a8e84_814e2c36a0f44cc0baffa8f6e92ca06d_large_01d86ce621a54787a3811d34b753bc24_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\21\\95972807f464e6bb0dfd26a626098c0_b4b7516c1ab64fbb919e84f1a7c5d3ad_large_c7d660956ed1497f9b69636359573d1a_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\21\\95972807f464e6bb0dfd26a626098c0_b4b7516c1ab64fbb919e84f1a7c5d3ad_large_c7d660956ed1497f9b69636359573d1a_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-1_c0583e4eeae9446faef782e8c3e6269f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-1_c0583e4eeae9446faef782e8c3e6269f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-2_1b202bf015734355aae1bf7bb1504b9f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-2_1b202bf015734355aae1bf7bb1504b9f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-3_bbd5f4a2447d4720aa8056c633094a63_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-3_bbd5f4a2447d4720aa8056c633094a63_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-4_443e0c7825ef430893d3448128cb638b_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\22\\gearvn-ban-phim-fl-esports-cmk75-ultramarine-marshmallow-4_443e0c7825ef430893d3448128cb638b_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\23\\080x_ee6240bd27594632b3996bd1913f302b_0c97fb3e3cc842dc82e293c17907667c_01848e5693a9421fb2e77e15d7d592db_grande (1).webp",
+      "PackagePath": "staticwebassets\\ProductImages\\23\\080x_ee6240bd27594632b3996bd1913f302b_0c97fb3e3cc842dc82e293c17907667c_01848e5693a9421fb2e77e15d7d592db_grande (1).webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\23\\ro-1_50d242422ab8410eb6f0b238ea4d9e22_40c42e6c2c354af4800c4e94244d81fd_940cd87b454f4b3e80ce0ca681e3db4f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\23\\ro-1_50d242422ab8410eb6f0b238ea4d9e22_40c42e6c2c354af4800c4e94244d81fd_940cd87b454f4b3e80ce0ca681e3db4f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\23\\ro-2_9b47d48570144967b43bdd12467c158f_5587cc2613474f358ea5d40beacf6541_7e3e7025f7824989999ff156f7026173_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\23\\ro-2_9b47d48570144967b43bdd12467c158f_5587cc2613474f358ea5d40beacf6541_7e3e7025f7824989999ff156f7026173_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\23\\ro-3_c0566fdfcf6f4981906acccf55ca7ac3_87bc5305e82344a087d0e76cae785b38_a6267789c338426bb27c9bdff18c5b44_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\23\\ro-3_c0566fdfcf6f4981906acccf55ca7ac3_87bc5305e82344a087d0e76cae785b38_a6267789c338426bb27c9bdff18c5b44_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\23\\ro-4_a6990329cd7c4c6aac32844382c0f803_fae08eb1387948d3b0b766f3f29a5dab_6bdec69f232f42148a40d9a95b8a6264_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\23\\ro-4_a6990329cd7c4c6aac32844382c0f803_fae08eb1387948d3b0b766f3f29a5dab_6bdec69f232f42148a40d9a95b8a6264_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\23\\ro-5_79c98533ee45451a85c840e81ad2bad2_2fb8b9cee1484ad59688b76750dd6c82_aa0c2b9755f24f68bd5d5d06dd662dab_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\23\\ro-5_79c98533ee45451a85c840e81ad2bad2_2fb8b9cee1484ad59688b76750dd6c82_aa0c2b9755f24f68bd5d5d06dd662dab_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-1_d63ef4c2b9ba482a9099d416045ec19c.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-1_d63ef4c2b9ba482a9099d416045ec19c.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-2_58d405b473cc41d7841365c4519d364b_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-2_58d405b473cc41d7841365c4519d364b_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-3_0dc2eed55357490eb69042979b53f190_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-3_0dc2eed55357490eb69042979b53f190_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-5_bd3f0d89f3df44a288e6c3bea240491b.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\24\\gearvn-tai-nghe-hyperx-cloud-core-wireless-5_bd3f0d89f3df44a288e6c3bea240491b.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-01_c9addaf4f3604a798521a1ad6b72c240_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-01_c9addaf4f3604a798521a1ad6b72c240_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-02_af7d97a593794818a83033bf54adc9f2_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-02_af7d97a593794818a83033bf54adc9f2_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-03_98bd3e54836c4d23bc6755c847eb6785_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-03_98bd3e54836c4d23bc6755c847eb6785_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-04_5bb19878ce434380b79f176c883fc814_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-04_5bb19878ce434380b79f176c883fc814_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-05_d73372fbe5b1465688540b037ac1555e_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-05_d73372fbe5b1465688540b037ac1555e_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-06_63970131b93f40da8fdf990bf7b2b75c_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\25\\rog-cetra-true-wireless-moonlight-white-06_63970131b93f40da8fdf990bf7b2b75c_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\26\\hs55-w-1_e2f0634da6ce45c5990919d4102a7013_2313fe50d69b43e3988d6865017c1681_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\26\\hs55-w-1_e2f0634da6ce45c5990919d4102a7013_2313fe50d69b43e3988d6865017c1681_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\26\\hs55-w-2_d5ce020c4b16495595ba907f081bc6da_055254f927e04811aeac57f3bd5cb2ab_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\26\\hs55-w-2_d5ce020c4b16495595ba907f081bc6da_055254f927e04811aeac57f3bd5cb2ab_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\26\\hs55-w-3_a1443aec4bd84620862541fb095f36c5_ad7790a0aa2e441c819d13dfb1e0dbbb_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\26\\hs55-w-3_a1443aec4bd84620862541fb095f36c5_ad7790a0aa2e441c819d13dfb1e0dbbb_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\26\\hs55-w-4_ede1c29341c14563933862d14d36d4b2_e6c663b09e4e49a8b73475316cf2c9d7_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\26\\hs55-w-4_ede1c29341c14563933862d14d36d4b2_e6c663b09e4e49a8b73475316cf2c9d7_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\26\\hs55-w-5_0e5c94a34a7a43a48ce99f25fbf87602_0224d76c10e34b8784f1d6d7e75d19aa_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\26\\hs55-w-5_0e5c94a34a7a43a48ce99f25fbf87602_0224d76c10e34b8784f1d6d7e75d19aa_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_7d1630cc9ca94eb7a164c5d4784f67aa_30ec42c3780a41b5ba4310f413552ec5_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_7d1630cc9ca94eb7a164c5d4784f67aa_30ec42c3780a41b5ba4310f413552ec5_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_85403d08f58e43de8be56cbc40688980_92aaa444113d491c92b3096a44a385f9_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_85403d08f58e43de8be56cbc40688980_92aaa444113d491c92b3096a44a385f9_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_e883a78d6e3d46d98e07e1bf41379ae7_9b67467c73f04e649d9b79f2f4dc9b6a_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_e883a78d6e3d46d98e07e1bf41379ae7_9b67467c73f04e649d9b79f2f4dc9b6a_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_f68f5b6a2aca4ed68980504c1eefd48e_4edf790c19bc4d928db0b2fec73efb58_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\28\\800_crop-scale_optimize_subsampling-2_f68f5b6a2aca4ed68980504c1eefd48e_4edf790c19bc4d928db0b2fec73efb58_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-1_b1a8db5345af427a945285b7b3a31843_d45ec3bc02fe45bbb1e280e10dc54b64_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-1_b1a8db5345af427a945285b7b3a31843_d45ec3bc02fe45bbb1e280e10dc54b64_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-2_252d616e5e20474687d63a4b728fcf95_53fc71ed5ce34e9dbec70d3790b79130_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-2_252d616e5e20474687d63a4b728fcf95_53fc71ed5ce34e9dbec70d3790b79130_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-3_de363411373c43659c55ad17fc4d18b2_257b790478284276ab421146430f0f20_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-3_de363411373c43659c55ad17fc4d18b2_257b790478284276ab421146430f0f20_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-4_ca6b67d0f97f4883a0490f63c32cb3b3_29be80e40b4041ff94f6b2dbba747dd3_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-4_ca6b67d0f97f4883a0490f63c32cb3b3_29be80e40b4041ff94f6b2dbba747dd3_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-5_9ad95f452ff34980909b70505c30c896_32975901fa984ec0a8fc57a6ee0b110b_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\29\\tai-nghe-razer-barracuda-pro-5_9ad95f452ff34980909b70505c30c896_32975901fa984ec0a8fc57a6ee0b110b_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\29\\thumbtainghe_78bafb230e9241fb839ad1e00c05b3e0_9638209884984e91995acb360c4628bb_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\29\\thumbtainghe_78bafb230e9241fb839ad1e00c05b3e0_9638209884984e91995acb360c4628bb_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-1_397bf121d2924a3581e9be47de263576_6fb825a51a744d3c82e4aa7eed9cc1d2_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-1_397bf121d2924a3581e9be47de263576_6fb825a51a744d3c82e4aa7eed9cc1d2_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-2_44a0d6b86e654ec3b60be6ae1cf5a6d4_a34523c0394e454f81713725027aaf2f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-2_44a0d6b86e654ec3b60be6ae1cf5a6d4_a34523c0394e454f81713725027aaf2f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-3_1fe012b2123945ecb98c151e1d1c092b_8d7c0fbb66bd43c9b1fc1dbb08302321_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-3_1fe012b2123945ecb98c151e1d1c092b_8d7c0fbb66bd43c9b1fc1dbb08302321_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-4_c284701eaa064ea095473501f456dfb0_9a6abe62462844a4b885e1754d4dc36c_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-4_c284701eaa064ea095473501f456dfb0_9a6abe62462844a4b885e1754d4dc36c_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-5_b0541c92fb4a4a66865f828e8245b2db_cf51b79e28f3494fab8ffc4dc7e14573_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\2\\-24-ips-2k-165hz-g-sync-chuyen-game-5_b0541c92fb4a4a66865f828e8245b2db_cf51b79e28f3494fab8ffc4dc7e14573_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\2\\121d2924a3581e9be47de263576_6fb825a51a744d3c82e4aa7eed9cc1d2_1024x1024_23db2166e8714c008b17744e32b1b190_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\2\\121d2924a3581e9be47de263576_6fb825a51a744d3c82e4aa7eed9cc1d2_1024x1024_23db2166e8714c008b17744e32b1b190_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\3\\image-removebg-preview__39__1beacbf3930f4ae1bae6bf30bdd7edad_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\3\\image-removebg-preview__39__1beacbf3930f4ae1bae6bf30bdd7edad_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\3\\image-removebg-preview__40__1fe621200e904ee4bac95f4689590285_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\3\\image-removebg-preview__40__1fe621200e904ee4bac95f4689590285_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\3\\image-removebg-preview__41__dde717e254d647aebeecb5dd8902edde_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\3\\image-removebg-preview__41__dde717e254d647aebeecb5dd8902edde_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\3\\image-removebg-preview__42_.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\3\\image-removebg-preview__42_.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\5\\arvn_96cc772c8baf4d928eea9abeaeb2f812_e54103df5dd04197bd5aa6000ecd9750_a099e849e68c4f68a0fc7dbded2913ef_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\5\\arvn_96cc772c8baf4d928eea9abeaeb2f812_e54103df5dd04197bd5aa6000ecd9750_a099e849e68c4f68a0fc7dbded2913ef_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-1_17472a08b2b44187bd178b349185fbbd_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-1_17472a08b2b44187bd178b349185fbbd_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-2_b9515adb4a0e43959bcf69bc7aae93a3_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-2_b9515adb4a0e43959bcf69bc7aae93a3_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-3_89cdf264788a49a2999c049f03007c07_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-3_89cdf264788a49a2999c049f03007c07_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-4_0bb7684c25c14425a7dcbb1f74e8085f_grande (1).webp",
+      "PackagePath": "staticwebassets\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-4_0bb7684c25c14425a7dcbb1f74e8085f_grande (1).webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-4_0bb7684c25c14425a7dcbb1f74e8085f_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\5\\gearvn-man-hinh-lg-24gn65r-b-24-ips-144hz-hdr10-freesync-chuyen-game-4_0bb7684c25c14425a7dcbb1f74e8085f_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-1_e527b7d5dfd048d1a5bf5dee00241d02_9d270a0c0a26417cae072303b08dd241_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-1_e527b7d5dfd048d1a5bf5dee00241d02_9d270a0c0a26417cae072303b08dd241_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-1_ed4ba87c3f714d189339fc5245dc1994_5422334ac82a41e48e6b6854f9328156_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-1_ed4ba87c3f714d189339fc5245dc1994_5422334ac82a41e48e6b6854f9328156_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-2_77410487611a4431ae9a16e81c1d03d0_80925cf9d72442ac8acdad5fe0adbea2_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-2_77410487611a4431ae9a16e81c1d03d0_80925cf9d72442ac8acdad5fe0adbea2_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-3_c85a262ac9a14808a577ab9ec4c4958d_c144e79c3120400dad828d273c3ac6f9_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-3_c85a262ac9a14808a577ab9ec4c4958d_c144e79c3120400dad828d273c3ac6f9_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-4_9ad8777d4ad0473aa7d775c57249aa05_272565edbc704365b9bbb96a689c132a_grande.webp",
+      "PackagePath": "staticwebassets\\ProductImages\\6\\o-l24q-35-24-ips-2k-75hz-loa-kep-2w-4_9ad8777d4ad0473aa7d775c57249aa05_272565edbc704365b9bbb96a689c132a_grande.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\Placeholder\\headphones.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Placeholder\\headphones.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\Placeholder\\keyboard.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Placeholder\\keyboard.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\Placeholder\\monitor.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Placeholder\\monitor.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\ProductImages\\Placeholder\\mouse.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Placeholder\\mouse.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\cat-6.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-6.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\offer-1.png",
+      "PackagePath": "staticwebassets\\img\\offer-1.png"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\offer-2.png",
+      "PackagePath": "staticwebassets\\img\\offer-2.png"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\payments.png",
+      "PackagePath": "staticwebassets\\img\\payments.png"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BaiTap\\TTTN\\main_prj - Copy\\main_prj\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.main_prj.props",
+      "PackagePath": "build\\main_prj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.main_prj.props",
+      "PackagePath": "buildMultiTargeting\\main_prj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.main_prj.props",
+      "PackagePath": "buildTransitive\\main_prj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.main_prj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
