@@ -12,7 +12,15 @@ namespace main_prj.Components
         }
         public IViewComponentResult Invoke()
         {
-            return View(_context.Categories.ToList());
+            var query = _context.Categories.ToList();
+            List<int> productCount = new List<int>();
+            foreach (var category in query)
+            {
+                int count = _context.Products.Count(p => p.CategoryId == category.CategoryId);
+                productCount.Add(count);
+            }
+            ViewBag.ProductCount = productCount;    
+            return View(query);
         }
     }
 }

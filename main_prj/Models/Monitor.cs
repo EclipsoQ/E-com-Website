@@ -19,5 +19,7 @@ public partial class Monitor
 
     public int RefreshRate { get; set; }
 
+    public int MonitorId { get; set; }
+
     public virtual Product? Product { get; set; }
 }

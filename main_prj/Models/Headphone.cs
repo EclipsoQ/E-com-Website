@@ -25,5 +25,7 @@ public partial class Headphone
 
     public string? Color { get; set; }
 
+    public int HeadphoneId { get; set; }
+
     public virtual Product? Product { get; set; }
 }

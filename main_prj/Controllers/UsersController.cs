@@ -6,9 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using main_prj.Models;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Newtonsoft.Json.Linq;
 
 namespace main_prj.Controllers
 {
+    [Route("Users")]
     public class UsersController : Controller
     {
         private readonly ComputerShopContext _context;
@@ -19,35 +22,51 @@ namespace main_prj.Controllers
         }
 
         //Login
+        [HttpGet]
+        [Route("Login")]
         public IActionResult Login()
         {
             return View();
         }
 
+        
         [HttpPost]
+        [Route("Login")]
         public IActionResult Login(User user)
         {
-            if (String.IsNullOrEmpty(user.Email) || String.IsNullOrEmpty(user.Password))
+            /*string email = data["email"].ToString();
+            string password = data["password"].ToString();*/
+            if (!String.IsNullOrEmpty(user.Email) && !String.IsNullOrEmpty(user.Password))
             {
-                //ViewData["error"] = "Chưa nhập email hoặc mật khẩu";
-                return this.Login();
-            }
-            else
-            {
-                var query = _context.Users.Where(n => n.Email.ToString() == user.Email
-                    && n.Password.ToString() == user.Password).FirstOrDefault();
+                var query = _context.Users.FirstOrDefault(n => n.Email == user.Email
+                    && n.Password == user.Password);
                 if (query == null)
                 {
                     ModelState.AddModelError(string.Empty, "Email hoặc mật khẩu sai");
-                    //ViewData["error"] = "Email hoặc mật khẩu sai";
-                    return this.Login();
+                    return View();
                 }
                 else
                 {
-                    /* ISession["user"] = query.UserName;*/
+                    string? userName = query.UserName;
+                    int userId = query.UserId;
+                    HttpContext.Session.SetInt32("UserId", userId);
+                    HttpContext.Session.SetString("UserName", userName);      
+                    if (query.IsAdmin == true)
+                    {
+                        HttpContext.Session.SetString("IsAdmin", "true");
+                    }
                     return RedirectToAction("Index", "Home");
                 }
             }
+            else return View();
+        }
+
+        [Route("Logout")]        
+        public IActionResult Logout ()
+        {
+            HttpContext.Session.Clear();
+            Response.Cookies.Delete(".GearClub.Session");
+            return RedirectToAction("Index", "Home");
         }
 
         //Validation
@@ -59,12 +78,14 @@ namespace main_prj.Controllers
         }
 
         //Register
+        [Route("Register")]
         public IActionResult Register()
         {
             return View();
         }
 
         [HttpPost]
+        [Route("Register")]
         public IActionResult Register(User user)
         {
             if (String.IsNullOrEmpty(user.UserName) || String.IsNullOrEmpty(user.Password) 
@@ -90,12 +111,14 @@ namespace main_prj.Controllers
         }
 
         // GET: Users
+        [Route("Index")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Users.ToListAsync());
         }
 
         // GET: Users/Details/5
+        [Route("Details")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -114,6 +137,7 @@ namespace main_prj.Controllers
         }
 
         // GET: Users/Create
+        [Route("Create")]
         public IActionResult Create()
         {
             return View();
@@ -124,6 +148,7 @@ namespace main_prj.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Route("Create")]
         public async Task<IActionResult> Create([Bind("UserId,UserName,Email,PhoneNumber,Address,Password,IsAdmin")] User user)
         {
             if (ModelState.IsValid)
@@ -136,6 +161,60 @@ namespace main_prj.Controllers
         }
 
         // GET: Users/Edit/5
+        [Route("ClientEdit/{id::int}")]
+        public async Task<IActionResult> ClientEdit(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var user = await _context.Users.FindAsync(id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+            return View(user);
+        }
+
+        // POST: Users/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [Route("ClientEdit/{id::int}")]
+        public async Task<IActionResult> ClientEdit(int id, [Bind("UserId, UserName,Email,PhoneNumber,Address,Password")] User user)
+        {
+            if (id != user.UserId)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(user);
+                    HttpContext.Session.SetString("UserName", user.UserName);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!UserExists(user.UserId))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction("Index", "Home");
+            }
+            return View(user);
+        }
+
+        // GET: Users/Edit/5
+        [Route("Edit/{id::int}")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -155,6 +234,7 @@ namespace main_prj.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
+        [Route("Edit/{id::int}")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("UserId,UserName,Email,PhoneNumber,Address,Password,IsAdmin")] User user)
         {
@@ -187,6 +267,7 @@ namespace main_prj.Controllers
         }
 
         // GET: Users/Delete/5
+        [Route("Delete/{id::int}")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -206,7 +287,7 @@ namespace main_prj.Controllers
 
         // POST: Users/Delete/5
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
+        [Route("Delete/{id::int}")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var user = await _context.Users.FindAsync(id);

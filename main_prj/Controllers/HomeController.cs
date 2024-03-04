@@ -1,6 +1,7 @@
 ﻿using main_prj.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Http;
 
 namespace main_prj.Controllers
 {
@@ -14,7 +15,10 @@ namespace main_prj.Controllers
         }
 
         public IActionResult Index()
-        {
+        {                       
+            ViewBag.userName = HttpContext.Session.GetString("UserName");
+            ViewBag.isAdmin = HttpContext.Session.GetString("IsAdmin");
+            ViewBag.UserId = HttpContext.Session.GetInt32("UserId");  
             return View();
         }
 
@@ -30,5 +34,11 @@ namespace main_prj.Controllers
         }
 
         
+        public IActionResult AdminDashboard()
+        {
+            ViewBag.userName = HttpContext.Session.GetInt32("UserName");
+            
+            return View();
+        }
     }
 }

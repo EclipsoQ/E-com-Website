@@ -25,5 +25,7 @@ public partial class Keyboard
 
     public string? Led { get; set; }
 
+    public int KeyboardId { get; set; }
+
     public virtual Product? Product { get; set; }
 }

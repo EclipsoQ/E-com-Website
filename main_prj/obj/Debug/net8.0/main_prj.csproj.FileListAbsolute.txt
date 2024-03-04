@@ -123,7 +123,6 @@ D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\staticwebassets.pa
 D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\scopedcss\bundle\main_prj.styles.css
 D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\scopedcss\projectbundle\main_prj.bundle.scp.css
-D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\main_prj.csproj.CopyComplete
 D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\main_prj.dll
 D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\refint\main_prj.dll
 D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\main_prj.pdb
@@ -517,7 +516,6 @@ D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\staticwebas
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\scopedcss\bundle\main_prj.styles.css
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\scopedcss\projectbundle\main_prj.bundle.scp.css
-D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\main_prj.csproj.CopyComplete
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\main_prj.genruntimeconfig.cache
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\ref\main_prj.dll
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -528,3 +526,24 @@ D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\bin\Debug\net8.0\Microsoft.E
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\main_prj.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\main_prj.sourcelink.json
+D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Programming\BaiTap\TTTN\main_prj - Copy\main_prj\obj\Debug\net8.0\main_prj.csproj.Up2Date
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\main_prj.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\main_prj.sourcelink.json
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\obj\Debug\net8.0\main_prj.csproj.Up2Date
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\package-lock.json
+D:\Programming\BaiTap\TTTN\main_prj\main_prj\bin\Debug\net8.0\package.json

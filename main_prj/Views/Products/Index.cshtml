@@ -1,34 +1,40 @@
 ﻿@model IEnumerable<main_prj.Models.Product>
 
 @{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Danh sách sản phẩm</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Tạo mới</a>
 </p>
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.ProductName)
+                @* @Html.DisplayNameFor(model => model.ProductName) *@
+                <label>Tên sản phẩm</label>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Price)
+                @* @Html.DisplayNameFor(model => model.Price) *@
+                <label>Đơn giá</label>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.StockQuantity)
+                @* @Html.DisplayNameFor(model => model.StockQuantity) *@
+                <label>Số lượng tồn kho</label>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.ProductDescription)
+                @* @Html.DisplayNameFor(model => model.ProductDescription) *@
+                <label>Ảnh xem trước</label>
             </th>
-            <th>
+            @* <th>
                 @Html.DisplayNameFor(model => model.ProductImages)
-            </th>
+            </th> *@
             <th>
-                @Html.DisplayNameFor(model => model.Warranty)
+                @* @Html.DisplayNameFor(model => model.Warranty) *@
+                <label>Bảo hành</label>
             </th>
             <th></th>
         </tr>
@@ -46,18 +52,18 @@
                 @Html.DisplayFor(modelItem => item.StockQuantity)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ProductDescription)
+                <img src="/ProductImages/PreviewImages/@item.ProductId/Preview.webp" width="50" height="50"/>
             </td>
-            <td>
+            @* <td>
                 @Html.DisplayFor(modelItem => item.ProductImages)
-            </td>
+            </td> *@
             <td>
                 @Html.DisplayFor(modelItem => item.Warranty)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ProductId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.ProductId">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.ProductId">Chi tiết</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProductId">Xóa</a>
             </td>
         </tr>
 }

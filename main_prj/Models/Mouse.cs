@@ -21,5 +21,7 @@ public partial class Mouse
 
     public string? Color { get; set; }
 
+    public int MouseId { get; set; }
+
     public virtual Product? Product { get; set; }
 }

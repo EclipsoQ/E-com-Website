@@ -9,9 +9,25 @@ public partial class Order
 
     public int? UserId { get; set; }
 
-    public DateOnly OrderDate { get; set; }
+    public DateTimeOffset OrderDate { get; set; }
 
-    public virtual ICollection<OrderDetail> OrderDetails { get; set; } = new List<OrderDetail>();
+    public int TotalValue { get; set; }
+
+    public string Status { get; set; } = null!;
+
+    public int CartId { get; set; }
+
+    public string ShippingAddress { get; set; } = null!;
+
+    public string ContactNumber { get; set; } = null!;
+
+    public string Receiver { get; set; } = null!;
+
+    public int? ShippingFee { get; set; }
+
+    public string PaymentMethod { get; set; } = null!;
+
+    public virtual Cart Cart { get; set; } = null!;
 
     public virtual User? User { get; set; }
 }

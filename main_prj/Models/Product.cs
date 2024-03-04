@@ -15,11 +15,21 @@ public partial class Product
 
     public string? ProductDescription { get; set; }
 
-    public string? ProductImages { get; set; }
-
     public int? Warranty { get; set; }
 
-    public virtual ICollection<CategoryProduct> CategoryProducts { get; set; } = new List<CategoryProduct>();
+    public int CategoryId { get; set; } 
 
-    public virtual ICollection<OrderDetail> OrderDetails { get; set; } = new List<OrderDetail>();
+    public virtual ICollection<CartDetail> CartDetails { get; set; } = new List<CartDetail>();
+
+    public virtual Category? Category { get; set; }
+
+    public virtual ICollection<Headphone> Headphones { get; set; } = new List<Headphone>();
+
+    public virtual ICollection<Keyboard> Keyboards { get; set; } = new List<Keyboard>();
+
+    public virtual ICollection<Mouse> Mice { get; set; } = new List<Mouse>();
+
+    public virtual ICollection<Monitor> Monitors { get; set; } = new List<Monitor>();
+
+    public virtual ICollection<Specification> Specifications { get; set; } = new List<Specification>();
 }

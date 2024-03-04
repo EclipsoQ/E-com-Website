@@ -18,13 +18,13 @@
     <br>
 
     <div class="cont">
-        
+
         <div class="form sign-in">
             <form method="post" asp-action="Login">
                 <h2>Welcome</h2>
                 <label>
                     <span>Email</span>
-                    <input type="text" asp-for="Email"/>
+                    <input type="text" asp-for="Email" />
                     <span asp-validation-for="Email" style="color: red"></span>
                 </label>
                 <label>
@@ -37,7 +37,7 @@
                 <br />
                 <div asp-validation-summary="ModelOnly" style="text-align: center; color:red"></div>
                 @* <label>
-                    <span class="error" color='red'>@ViewData["error"]</span>
+                <span class="error" color='red'>@ViewData["error"]</span>
                 </label> *@
             </form>
         </div>
@@ -57,7 +57,7 @@
                     <span class="m--in">Sign In</span>
                 </div>
             </div>
-            <form method="post" asp-action="Register">                
+            <form method="post" asp-action="Register">
                 <div class="form sign-up">
                     <h2>Create your Account</h2>
                     <label>
@@ -78,21 +78,21 @@
                     <button type="submit" class="submit">Sign Up</button>
                     <div asp-validation-summary="ModelOnly" style="text-align:center; color:red"></div>
                     @* <label>
-                        <span class="error" color="red">@ViewData["error"]</span>
+                    <span class="error" color="red">@ViewData["error"]</span>
                     </label> *@
                 </div>
             </form>
-            
+
         </div>
     </div>
 
     <script>
         document.querySelector('.img__btn').addEventListener('click', function () {
-            
-            
+
+
             document.querySelector('.cont').classList.toggle('s--signup');
         });
-        
+
     </script>
 </body>
 </html>
